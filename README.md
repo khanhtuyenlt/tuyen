@@ -1,2 +1,3 @@
-# tuyen
-được
+# con bot ngáo
+ghép đôi
+reset
